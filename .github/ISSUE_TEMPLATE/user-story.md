@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a ** User,
-I need to have multiple counters,
-So that I can keep track of several counts at once
+As a
+I need
+So that
 
 Details and Assumptions:
 [document what you know]
